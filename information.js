@@ -1,2 +1,2 @@
-const comCamp = {nom:"cédric candaes", campus:"wild clermont"}
+const comCamp = {nom:"Cédric Candaes", campus:"Clermont"}
 module.exports = {comCamp}
